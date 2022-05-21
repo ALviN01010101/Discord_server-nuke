@@ -1,7 +1,7 @@
 # Discord-server-nuke
 This is the file use to nuke discord server by using bot
 
-ALvin#9999 contact me on discord for any help  
+Anonymus#9999 contact me on discord for any help  
   
   Commands:
 *TO ADD THE BOT YOU MUST HAVE THE MANAGE SERVER PERMISSION*
